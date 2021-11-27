@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [www.pathforum.com.mx](www.pathforum.com.mx)
 
-- 💬 Ask me about **Integrations and Cloud Computing**
-
 - 📫 How to reach me **geovanny.alvaradod@gmail.com**
 
 - 📄 Know about my experiences [about.me/galvarado](about.me/galvarado)
