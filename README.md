@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **Flutter and Microsoft Azure**
 
+- 🤝 I’m looking for help with **Digital Transformation**
+
 - 📝 I regularly write articles on [www.pathforum.com.mx](www.pathforum.com.mx)
 
 - 📫 How to reach me **geovanny.alvaradod@gmail.com**
 
-- 📄 Know about my experiences [about.me/galvarado](about.me/galvarado)
+- 📄 Know about my experiences [https://about.me/galvarado](https://about.me/galvarado)
 
 - ⚡ Fun fact **I'm a big fan of Halo**
 
